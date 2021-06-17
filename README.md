@@ -1,7 +1,13 @@
 # Flutter-Clones
 
-1. Facebook-Clone
-2. Twitter-Clone
-3. Instagram-Clone
-4. Uber-Clone
-5. Zoom-Clone
+These are the clones of one the most popular sites, programmed using Dart and Flutter.
+
+1. Twitter Clone
+2. Facebook Clone
+3. Instagram Clone
+4. TikTok Clone
+5. Zoom Clone
+6. Uber Clone
+7. Spotify Clone
+
+### :warning: Disclaimer : Cloned for educational purposes only.
